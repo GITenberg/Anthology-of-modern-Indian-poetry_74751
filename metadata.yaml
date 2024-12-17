@@ -1,0 +1,34 @@
+_repo: Anthology-of-modern-Indian-poetry_74751
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Goodwin, Gwendoline
+    birthdate: 1896
+    gutenberg_agent_id: '57629'
+    url: http://www.gutenberg.org/2009/agents/57629
+description: ''
+edition_note: First edition
+gutenberg_issued: '2024-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74751'
+  lccn: '27015246'
+language: en
+pgterms:marc904: https://archive.org/details/anthologyofmoder0000good/page/n7/mode/2up
+pgterms:marc905: 20230321044828various
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+production_note: Aaron Adrignola, Tim Lindell, Chuck Greif and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Murray, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Wisdom of the East
+subjects:
+- !lcsh 'Indic poetry -- Translations into English'
+- !lcc 'PK'
+- GITenberg
+title: Anthology of modern Indian poetry
+url: http://www.gutenberg.org/ebooks/74751
